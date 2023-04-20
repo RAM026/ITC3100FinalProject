@@ -51,3 +51,7 @@ body {
 	border: solid black 1px;
 	margin: .211%;
 }
+
+#pageContent {
+	grid-column: 1 / 13;
+}
